@@ -3,7 +3,7 @@
 A simple web-based Rock, Paper, Scissors game created using HTML, CSS, and JavaScript.
 
 ## Demo
-Play the game here: [Game Demo](link_to_game)
+Play the game here: [Game Demo]( https://saikatdey61.github.io/Rock-Paper-Scissor-Game/)
 
 ## Technologies Used
 - HTML
