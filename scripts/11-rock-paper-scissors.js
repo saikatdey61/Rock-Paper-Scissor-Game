@@ -34,15 +34,15 @@ function autoPlay(){
 }
 
 document.querySelector('.js-rock-button').addEventListener('click' , () =>{
-  playGame('Rock');
+  playGame('rock');
 });
 
 document.querySelector('.js-paper-button').addEventListener('click' , () =>{
-  playGame('Paper');
+  playGame('paper');
 });
 
 document.querySelector('.js-scissors-button').addEventListener('click' , () =>{
-  playGame('Scissors');
+  playGame('scissors');
 });
 
 document.body.addEventListener('keydown' , (event) =>{
