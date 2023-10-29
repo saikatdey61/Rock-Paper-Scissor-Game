@@ -120,11 +120,11 @@ function pickComputermove(){
 const randomNumber = Math.random();
 let computerMove = '';
 if(randomNumber >= 0 && randomNumber<= 1/3){
-    computerMove = 'Rock';
+    computerMove = 'rock';
   } else if(randomNumber> 1/3 && randomNumber<= 2/3){
-    computerMove = 'Paper';
+    computerMove = 'paper';
   } else if(randomNumber> 2/3 && randomNumber <= 3){
-    computerMove = 'Scissors';
+    computerMove = 'scissors';
   }
   return computerMove;
 }
