@@ -16,4 +16,9 @@ Play the game here: [Game Demo]( https://saikatdey61.github.io/Rock-Paper-Scisso
 - The computer will randomly choose its move.
 - The winner is determined based on the game rules.
 
+## Game Rule
+- Rock win against scissor.
+- Paper win against rock.
+- Scissor win against paper.
+
 
